@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Material UI 
+
+RANGKUMAN
+
+### Button
+
+Attribute 
+ - variant (mengubah jenis button) = contained, text
+ - color (warna) = primary, secondary
+ - href 
+ - Icon
+    import SaveIcon from "@material-ui/icons/Save";
+    startIcon={<SaveIcon/>}
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
